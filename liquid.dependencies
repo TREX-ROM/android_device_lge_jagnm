@@ -1,0 +1,8 @@
+[
+  {
+    "remote": "gh",  
+    "repository":  "TREX-ROM/android_device_lge_msm8226-common",
+    "target_path": "device/lge/msm8226-common",
+    "revision":    "mm6.0"    
+  }
+]

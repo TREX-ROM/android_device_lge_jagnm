@@ -48,6 +48,9 @@ WIFI_DRIVER_FW_PATH_STA := "/system/etc/firmware/fw_bcmdhd.bin"
 # Kernel
 TARGET_KERNEL_CONFIG := jagnm_cyanogenmod_defconfig
 
+# Changelog
+LIQUID_CHANGELOG := true
+
 # Filesystem
 BOARD_BOOTIMAGE_PARTITION_SIZE := 0x00D00000
 BOARD_RECOVERYIMAGE_PARTITION_SIZE := 0x01000000
